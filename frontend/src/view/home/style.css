@@ -1,0 +1,23 @@
+
+.home{
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+h1{
+    font-weight: 100;
+    margin-top: 50px;
+}
+
+.hindi-songs-container{
+    /* width: 100%; */
+    
+}
+.hindi-songs{
+    /* width: 100%; */
+    display: flex;
+    overflow: hidden;
+
+}
+

@@ -1,0 +1,26 @@
+.carousel-container {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .carousel {
+    display: flex;
+}
+
+.slide {
+      transition: all 1s ease; /* Use transition for smooth sliding */
+    /* width: 100%; */
+    flex: 0 0 800px;
+    /* border-radius: 10px; */
+    margin: 20px;
+    overflow: hidden;
+    
+  }
+.slide img{
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+    
+  }
+  
+  
